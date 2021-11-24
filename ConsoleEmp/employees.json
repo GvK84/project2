@@ -1,0 +1,29 @@
+[
+  {
+    "Department": "development",
+    "Name": "Nikos",
+    "Surname": "Gianarakis",
+    "Salary": 100.0,
+    "Position": "Senior Developer",
+    "StartDate": "1/08/2012",
+    "EndDate": null
+  },
+  {
+    "Department": "eCommerce",
+    "Name": "Elefthrios",
+    "Surname": "Gianoudakis",
+    "Salary": 150.0,
+    "Position": "Project Manager",
+    "StartDate": "1/08/2008",
+    "EndDate": "1/12/2013"
+  },
+  {
+    "Department": "HR",
+    "Name": "Nikos",
+    "Surname": "Gianarakis",
+    "Salary": 100.0,
+    "Position": "Junior Developer",
+    "StartDate": "1/08/2012",
+    "EndDate": null
+  }
+]
